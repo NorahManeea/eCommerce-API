@@ -21,5 +21,9 @@ public class Product {
     private String name;
     private String description;
     private String image;
+    private Float price;
+    private Integer quantityInStock;
+
+
 
 }
